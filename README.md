@@ -3,6 +3,8 @@
 ## 📝 Overview
 Dashboard ini menyajikan analisis menyeluruh terkait tingkat fraud berdasarkan **kategori transaksi**, **metode pembayaran**, **waktu transaksi**, dan **usia akun**.  
 Tujuannya adalah membantu mengidentifikasi pola dan tren penipuan sehingga dapat mendukung pengambilan keputusan yang lebih tepat serta langkah pencegahan yang efektif.
+![Uploading Fraud_Rate_per_Age_Category_Payment_Method_page-0001.jpg…]()
+
 
 ## 📌 Ringkasan Metrik
 - **Total Fraud**: 36.188  
